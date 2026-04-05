@@ -220,6 +220,16 @@ Authorization: Bearer <token>
 
 ---
 
+## API Testing
+
+Import the file `postman_collection.json` into Postman to test all APIs.
+
+Steps:
+1. Open Postman
+2. Click Import
+3. Select the JSON file
+4. Run APIs
+
 ## Author
 
 Aman Upadhyay
